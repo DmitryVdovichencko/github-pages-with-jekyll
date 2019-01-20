@@ -1,3 +1,3 @@
-# Welcome to my blog
+# GitHub pages training with jekyll
 
-I'm glad you are here. I plan to talk about ...
+There are examples for Github Pages learning course
